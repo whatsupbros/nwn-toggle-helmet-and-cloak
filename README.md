@@ -2,13 +2,13 @@
 
 ![Demonstration](screenshot.jpg)
 
-## These scripts' purpose is to toggle helmet and cloak visibility on the main character without actually uneqipping them. They affect only the main character, but not other NPCs in comparison to standard `VisibleCloaks` option.
+### These scripts' purpose is to toggle helmet and cloak visibility on the main character without actually uneqipping them. They affect only the main character, but not other NPCs in comparison to standard `VisibleCloaks` option.
 
-These scripts can be used in the official campaign modules.
+These scripts are allowed to be used in any modules, including **the official campaign modules**.
 
-Supported versions of the game: *Neverwinter Nights: Enhanced Edition* v74 and above
+Supported versions of the game: Neverwinter Nights: **Enhanced Edition v74** and above.
 
-*Usage Notes:*
+**Usage Notes:**
 1. Put these scripts into Neverwinter Nights' Override folder. For Steam installation on Windows it's in you documents folder.
 2. Start the game.
 3. Enable debug mode by typing in chat the command `##DebugMode 1`
